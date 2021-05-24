@@ -4,3 +4,6 @@
 本项目中的文件都对原始文件做了修改，包括撰写自己的注释、增加自己的代码等。
 1. [Google Colab Tutorial.ipynb](https://github.com/PolarisRisingWar/lihongyi-2021-colab/blob/main/Google_Colab_Tutorial.ipynb)
 2. [Pytorch Tutorial.ipynb](https://github.com/PolarisRisingWar/lihongyi-2021-colab/blob/main/Pytorch_Tutorial.ipynb)
+3. HW1<br>
+&nbsp;1. [官方提供的simple baseline](https://github.com/PolarisRisingWar/lihongyi-2021-colab/blob/main/HW1_simple_baseline.ipynb)<br>
+&nbsp;2. [medium baseline](https://github.com/PolarisRisingWar/lihongyi-2021-colab/blob/main/HW1_medium_baseline.ipynb)
