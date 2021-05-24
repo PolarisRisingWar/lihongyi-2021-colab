@@ -3,3 +3,4 @@
 原文件来源于[课程官网](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)。我是在colab上直接运行，然后从那边直接上传过来的。  
 本项目中的文件都对原始文件做了修改，包括撰写自己的注释、增加自己的代码等。
 1. [Google Colab Tutorial.ipynb](https://github.com/PolarisRisingWar/lihongyi-2021-colab/blob/main/Google_Colab_Tutorial.ipynb)
+2. [Pytorch Tutorial.ipynb](https://github.com/PolarisRisingWar/lihongyi-2021-colab/blob/main/Pytorch_Tutorial.ipynb)
